@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMyInt", "UnitTestMyInt\UnitTestMyInt.csproj", "{76BE2614-99F9-4C14-9D22-01D383288043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBigInteger", "MyBigInteger\MyBigInteger.csproj", "{42E22C1F-58F3-4985-9D20-05DF0E060ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIntConsole", "MyIntConsole\MyIntConsole.csproj", "{A489655B-CA8A-46D1-82E9-F21D978BF98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BE2614-99F9-4C14-9D22-01D383288043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BE2614-99F9-4C14-9D22-01D383288043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BE2614-99F9-4C14-9D22-01D383288043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BE2614-99F9-4C14-9D22-01D383288043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E22C1F-58F3-4985-9D20-05DF0E060ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E22C1F-58F3-4985-9D20-05DF0E060ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E22C1F-58F3-4985-9D20-05DF0E060ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E22C1F-58F3-4985-9D20-05DF0E060ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A489655B-CA8A-46D1-82E9-F21D978BF98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A489655B-CA8A-46D1-82E9-F21D978BF98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A489655B-CA8A-46D1-82E9-F21D978BF98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A489655B-CA8A-46D1-82E9-F21D978BF98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
