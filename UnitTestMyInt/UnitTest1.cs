@@ -66,13 +66,13 @@ namespace UnitTestMyInt
             mintNeg = new MyInt(numStringNeg);
             Assert.AreEqual("987", mintNeg.abs());
         }
-        [TestMethod]
+        /*[TestMethod]
         public void TestAdd()
         {
             MyInt a=new MyInt("129"),b=new MyInt("46");
             Assert.AreEqual("175", a.add(b).ToString());
         }
-        /*
+        
           [TestMethod]
          public void TestSubtract()
          {
